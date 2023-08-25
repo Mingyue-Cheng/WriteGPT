@@ -35,20 +35,25 @@
 
 ### 写作润色功能
 
-| Case| 测试输入 | WriteGPT输出 |
-|:------------- |:------------- |:---------------|:---------------|
-Case1|该研究旨在探讨人工智能在医疗诊断中的应用。通过收集大量的医学数据和利用深度学习算法，人工智能可以帮助医生准确诊断疾病，并提供个性化的治疗方案。本研究将对人工智能的优势进行综述，并探讨其在医疗领域的潜在影响。| **本研究旨在深入探讨人工智能在医疗诊断中的应用。通过收集大量的医学数据并运用深度学习算法，人工智能能够为医生提供精确的疾病诊断，并提供个性化的治疗方案。本研究将全面回顾人工智能的优势，并深入探讨其在医疗领域的潜在影响。**|
+
+| Case | 测试输入 | WriteGPT输出 |
+|:------------- |:------------- |:---------------|
+|Case1|该研究旨在探讨人工智能在医疗诊断中的应用。通过收集大量的医学数据和利用深度学习算法，人工智能可以帮助医生准确诊断疾病，并提供个性化的治疗方案。本研究将对人工智能的优势进行综述，并探讨其在医疗领域的潜在影响。| **本研究旨在深入探讨人工智能在医疗诊断中的应用。通过收集大量的医学数据并运用深度学习算法，人工智能能够为医生提供精确的疾病诊断，并提供个性化的治疗方案。本研究将全面回顾人工智能的优势，并深入探讨其在医疗领域的潜在影响。**|
 Case2|In this research, an in-depth investigation is conducted to identify the underlying mechanisms of action of a novel antiviral drug on inhibiting the replication of the HIV virus in human cells, thus offering potential insights for future therapeutic developments.| **In this study, a comprehensive analysis is undertaken to uncover the underlying mechanisms through which a novel antiviral drug inhibits the replication of the Human Immunodeficiency Virus (HIV) in human cells. This research provides potential avenues for future therapeutic advancements.**|
 
 ### 智能批阅功能
+
+
 | Case| 测试输入 | WriteGPT输出 |
-|:------------- |:------------- |:---------------|:---------------|
-Case3|The reserch experimens invlolved three grups of studentes, ad each group was give a diffrent task to camplete.| **{<br>"Misspellings": ["reserch", "experimens", "involved", "grups", "studentes", "give", "diffrent", "camplete"],<br>"Grammatical errors": [],<br>"the corrected sentence": "The research involved three groups of students, each given a different task to complete.",<br>}**|
+|:------------- |:------------- |:---------------|
+|Case3|The reserch experimens invlolved three grups of studentes, ad each group was give a diffrent task to camplete.| **{<br>"Misspellings": ["reserch", "experimens", "involved", "grups", "studentes", "give", "diffrent", "camplete"],<br>"Grammatical errors": [],<br>"the corrected sentence": "The research involved three groups of students, each given a different task to complete.",<br>}**|
 
 ### 智能翻译功能
+
+
 | Case|测试输入 | WriteGPT输出 |
-|:------------- |:------------- |:---------------|:---------------|
-Case4|Quantum computing represents a paradigm shift in computational power, promising to revolutionize fields such as cryptography, optimization, and drug discovery. Unlike classical computers that rely on binary bits, quantum computers harness the principles of quantum mechanics, utilizing quantum bits (qubits) to perform complex calculations at an exponentially faster rate. The unique properties of qubits, such as superposition and entanglement, enable quantum computers to solve problems with astonishing efficiency. However, the development and scalability of quantum systems pose significant challenges, requiring breakthroughs in areas such as qubit stability and error correction.| **量子计算代表了计算能力的范式转变，承诺将革命化诸如密码学、优化和药物发现等领域。与经典计算机依赖于二进制位不同，量子计算利用量子力学原理，利用量子位（qubits）以指数级更快的速度执行复杂计算。量子位的独特性质，如叠加和纠缠，使量子计算机能够以惊人的效率解决问题。然而，量子系统的开发和可扩展性面临重大挑战，需要在量子位稳定性和错误纠正等领域实现突破。**|
+|:------------- |:------------- |:---------------|
+|Case4|Quantum computing represents a paradigm shift in computational power, promising to revolutionize fields such as cryptography, optimization, and drug discovery. Unlike classical computers that rely on binary bits, quantum computers harness the principles of quantum mechanics, utilizing quantum bits (qubits) to perform complex calculations at an exponentially faster rate. The unique properties of qubits, such as superposition and entanglement, enable quantum computers to solve problems with astonishing efficiency. However, the development and scalability of quantum systems pose significant challenges, requiring breakthroughs in areas such as qubit stability and error correction.| **量子计算代表了计算能力的范式转变，承诺将革命化诸如密码学、优化和药物发现等领域。与经典计算机依赖于二进制位不同，量子计算利用量子力学原理，利用量子位（qubits）以指数级更快的速度执行复杂计算。量子位的独特性质，如叠加和纠缠，使量子计算机能够以惊人的效率解决问题。然而，量子系统的开发和可扩展性面临重大挑战，需要在量子位稳定性和错误纠正等领域实现突破。**|
 Case5|随着科技的快速发展，人工智能已经变得越来越普遍。它在许多领域中发挥着重要的作用，如医疗诊断、自动驾驶和语音识别。然而，人工智能也引发了一些社会和道德问题，需要我们进行深入的讨论和研究。| **With the rapid development of technology, artificial intelligence has become increasingly prevalent. It plays a crucial role in many fields, such as medical diagnosis, autonomous driving, and speech recognition. However, artificial intelligence also raises some social and ethical issues that require deep discussion and research.**|
 
    
