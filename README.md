@@ -6,7 +6,7 @@
 
 
 
-# 文修 (WriteGPT): 面向中英双语智能助写的语言大模型
+# 文修 (WriteGPT): 首个基于昇腾的中英双语智能助写大模型
 
 ### WriteGPT: A large language model for Chinese-English bilingual intelligent writing assistance
 
