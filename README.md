@@ -1,7 +1,7 @@
 [**中文**](./README.md) | [**English**](./README_EN.md)
 
 <p align="center" width="100%">
-<a href="" target="_blank"><img src="assets/logo/logo.jpg" alt="WriteGPT" style="width: 60%; min-width: 300px; display: block; margin: auto;"></a>
+<a href="" target="_blank"><img src="https://github.com/user-attachments/assets/9d0d8b09-32f3-41a3-a9e7-8ad2cb7e1721" alt="WriteGPT" style="width: 60%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 
