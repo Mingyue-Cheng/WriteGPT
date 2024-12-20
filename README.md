@@ -6,7 +6,7 @@
 
 
 
-# 科言文修 (WriteGPT): 首个基于华为昇腾的科技文献智能助写大模型
+# 科言智能 (WriteGPT): 首个基于华为昇腾的科技文献智能助写大模型
 
 ### WriteGPT: A large language model for Chinese-English bilingual intelligent writing assistance
 
@@ -28,7 +28,8 @@
 ## 欢迎大家使用我们精心打造的[文修智能写作助写平台](https://writelearn.bdaa.pro/)进行写作效率与技能提升。
 
 ## 更新日志
-[2023/07/31] 文案修缮数据进行指令微调的模型WriteGPT发布。
+[2023/05/31] 文案修缮数据进行指令微调的模型WriteGPT发布。
+[2024/12/20] 文修改名为科言。
 
 
 ## 模型效果测试
